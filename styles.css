@@ -2,6 +2,7 @@
 table,tr,td, th{
 	border:2px solid black;
 	align:center;
+	
 }
 .one{
 	height:200px;
@@ -16,5 +17,7 @@ table,tr,td, th{
 .NT{
 	color:purple;
 	text-decoration:underline;
+}
+
 }
 /* Your CSS Code here. */
