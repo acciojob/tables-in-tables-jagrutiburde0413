@@ -1,2 +1,20 @@
 
+table,tr,td, th{
+	border:2px solid black;
+	align:center;
+}
+.one{
+	height:200px;
+}
+.two{
+	height:100px;
+}
+.td1{
+	background-color:black;
+	color:white;
+}
+.NT{
+	color:purple;
+	text-decoration:underline;
+}
 /* Your CSS Code here. */
